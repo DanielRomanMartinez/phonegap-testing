@@ -1,8 +1,8 @@
 # PhoneGap Testing
-Aplicación para provar y trastear phonegap
+Aplicación para probar y trastear PhoneGap
 
-La aplicación esta realizada para probar el jquery / javas. Y finalmente provar la camara, desgraciadamente al hacer la foto no sale en pantalla. 
+La aplicación esta realizada para probar el jQuery / javas. Y finalmente probar la cámara, desgraciadamente al hacer la foto no sale en pantalla.
 
-Habria que averiguar como se hace para guardar la fotografía y que se muestre en la pantalla.
+Habría que averiguar como se hace para guardar la fotografía y que se muestre en la pantalla.
 
-Muestra las imagenes des de la galeria. El codigo de la camara ha sido extraido de la documentación oficial.
+Muestra las imágenes des de la galería. El código de la cámara ha sido extraido de la documentación oficial.
